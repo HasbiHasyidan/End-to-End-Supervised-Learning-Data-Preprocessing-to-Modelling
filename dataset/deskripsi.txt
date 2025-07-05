@@ -1,1 +1,8 @@
+Datasets yang digunakan antara lain :
+1. Fuel Consumption Dataset
 
+Deskripsi: Dataset ini memuat informasi mengenai konsumsi bahan bakar berbagai model kendaraan. Fitur-fiturnya meliputi karakteristik kendaraan seperti Engine Size, Cylinders, Fuel Consumption, CO2 Emissions, dan lainnya.
+
+2. Hepatitis dataset
+
+Deskripsi: Dataset ini berisi data klinis yang digunakan untuk tujuan klasifikasi terkait penyakit Hepatitis C. Fitur-fiturnya mencakup berbagai parameter biokimia darah dan informasi demografi pasien (Age, Sex, Category, dll.). Category adalah variabel target klasifikasi. Dataset ini menyoroti tantangan missing values dan outliers pada data medis.
